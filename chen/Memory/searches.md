@@ -21,3 +21,30 @@
 ```
 
 <!-- entries חדשים נוספים מתחת לשורה הזו -->
+
+## 2026-06-02 | 10 טרנדים בולטים ב-AI מהשבוע
+**מילות מפתח:** AI trends, AI news, this week, June 2026, טרנדים, חדשות AI
+**שאילתות שנעשו:** "AI news this week late May early June 2026", "major AI announcements week of June 1 2026", fetch של buildfastwithai June 1 roundup
+**מקורות שנמצאו:**
+- [AI News Today - June 1, 2026 (buildfastwithai)](https://www.buildfastwithai.com/blogs/ai-news-today-june-1-2026) - איכות: ⭐⭐⭐⭐ - ריכוז 11 הסיפורים הגדולים, עדכני ליום הבקשה
+- [100 things we announced at Google I/O 2026 (blog.google)](https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/) - איכות: ⭐⭐⭐⭐⭐ - מקור ראשוני (Google)
+- [LLM News Today June 2026 (llm-stats)](https://llm-stats.com/ai-news) - איכות: ⭐⭐⭐⭐ - מעקב שחרורי מודלים
+- [Weekly AI News May 20–24 2026 (unrot)](https://unrot.co/blogs/weekly-ai-news-may-2026) - איכות: ⭐⭐⭐ - אגרגטור שבועי
+- [Artificial Intelligence News](https://www.artificialintelligence-news.com/) - איכות: ⭐⭐⭐ - פרסום מקצועי
+**נבחר:** שילוב של roundup עדכני (buildfastwithai) + מקור ראשוני (Google blog) לבניית רשימת 10 טרנדים.
+**קובץ ב-Content:** לא נשמר — בקשת טרנדים בלבד (flow של "רק מצא לי", בלי שכתוב)
+---
+
+## 2026-06-02 14:30 | משכ"ל — תחום שמירה ואבטחה ("פמ"א")
+**מילות מפתח:** החברה למשק וכלכלה, משכ"ל, mashcal, פמ"א, פיקוח מנע אבטחה, שמירה ואבטחה, מכרז מסגרת, רשויות מקומיות, אבטחת מוסדות חינוך, פטור ממכרז
+**שאילתות שנעשו:** "החברה למשק וכלכלה ... פמ"א פיקוח מנע אבטחה", "משכ"ל פמ"א ... מחלקת שמירה ואבטחה מכרז מסגרת", "mashcal.co.il שמירה ואבטחה ... מוסדות חינוך", "פמ"א החברה לפיתוח משאבי אנוש ... שמירה אבטחה", "תקנה 3(8) תקנות העיריות מכרזים ... מוסד ציבורי משכ"ל פטור"
+**מקורות שנמצאו:**
+- [משכ"ל — עמוד המכרזים (קטגוריות)](https://www.mashcal.co.il/our-tenders/) - איכות: ⭐⭐⭐⭐⭐ - מקור ראשוני; אישר קטגוריית "ביטחון" + "מכרז למתן שירותי אבטחה ושמירה"
+- [משכ"ל — ביטחון תעסוקתי למאבטחי מוסדות חינוך](https://www.mashcal.co.il/articals/jobsecurity/) - איכות: ⭐⭐⭐⭐⭐ - מקור ראשוני עם נתוני אכיפת זכויות (402K/614K ₪, 19M+ מצטבר)
+- [מבקר המדינה — מכרזי מסגרת משכ"ל ופמ"א](https://library.mevaker.gov.il/sites/DigitalLibrary/Pages/Reports/2039-7.aspx) - איכות: ⭐⭐⭐⭐⭐ - הבהיר ש"פמ"א" = החברה לפיתוח משאבי אנוש, לא "פיקוח מנע אבטחה"
+- [משכ"ל ויקיפדיה](https://he.wikipedia.org/wiki/החברה_למשק_וכלכלה_של_השלטון_המקומי) - איכות: ⭐⭐⭐⭐ - רקע, בעלות (90%/10%), ייסוד 1974
+- [מכון שיטה — אבטחת מוסדות חינוך ברשויות](https://shittah.org/publication/local-security-education-institute/) - איכות: ⭐⭐⭐⭐ - רקע רגולטורי ואתגרים
+- [תקנות העיריות (מכרזים) תשמ"ח-1987 — נבו](https://www.nevo.co.il/law_html/law01/p182_051.htm) - איכות: ⭐⭐⭐⭐ - בסיס חוקי לפטור ממכרז (לא אומת ניסוח מדויק)
+**נבחר:** שילוב מקורות ראשוניים — אתר משכ"ל הרשמי (תחומים + נתוני אבטחה) + דוח מבקר המדינה (מנגנון מכרזי מסגרת + הבהרת "פמ"א"). ממצא קריטי: "פמ"א" ≠ פיקוח מנע אבטחה אלא חברת הבת למשאבי אנוש; התחום האמיתי הוא "ביטחון / שמירה ואבטחה".
+**קובץ ב-Content:** 2026-06-02-mashcal-security-guarding.md
+---
